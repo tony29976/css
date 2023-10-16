@@ -1,0 +1,24 @@
+.firstdiv{
+    color:red;
+}
+
+.secdiv{
+    color:green;
+}
+
+#Singledout{
+    color: pink;
+    text-decoration: line-through;
+}
+
+h3 + ul{
+    color: blue;
+    border: 4px dotted purple ;
+}
+li a{
+    color:violet;
+}
+li a[href="https://www.google.com"]{
+    color:aquamarine;
+    border : 5px solid yellow;
+}

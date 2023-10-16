@@ -1,0 +1,20 @@
+body{
+background: url(https://thumbs.dreamstime.com/z/footbridge-sea-beach-meditation-journey-calm-hormone-sunset-sea-yoga-footbridge-sea-beach-meditation-journey-calm-hormone-128381503.jpg?w=992);
+background-repeat: no-repeat ;
+}
+
+p{
+    color: green;
+}
+
+div{
+    background-color: rgb(222,333, 444);
+    border-color: violet;
+    border-width: 4px;
+    border-style: dashed;
+}
+
+span{
+    background: palegreen;
+    color: black;
+}
